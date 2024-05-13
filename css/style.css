@@ -1,0 +1,23 @@
+body 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 100vh;
+    background: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#gameCanvas 
+{
+    box-shadow: 10px 10px 20px black;
+}
+h2
+{
+    color: white;
+}
+h2 span
+{
+    color: yellow;
+}
